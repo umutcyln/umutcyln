@@ -1,6 +1,6 @@
 # Merhaba, Ben Umut! 👋
 
-Fırat Üniversitesi'nde 3. sınıf Yazılım Mühendisliği öğrencisiyim. Mobil uygulama geliştirme (Flutter), veri bilimi (Python) ve nesne yönelimli sistem mimarileri (Java) üzerine projeler üretiyorum. Farklı teknolojileri birleştirerek uçtan uca (Full-Stack) çözümler geliştirmeye odaklanıyorum.
+Fırat Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim. Mobil uygulama geliştirme (Flutter), veri bilimi (Python) ve nesne yönelimli sistem mimarileri (Java) üzerine projeler üretiyorum. Farklı teknolojileri birleştirerek uçtan uca (Full-Stack) çözümler geliştirmeye odaklanıyorum.
 
 ### 🚀 Neler Yapıyorum?
 - **Mobil & Ar-Ge:** TÜBİTAK destekli yapay zeka entegrasyonlu finansal asistan (FinAsist) projesinde Frontend Geliştirici olarak çalışıyorum.
